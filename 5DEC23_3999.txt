@@ -1,0 +1,50 @@
+Started by user Manoj Somase
+Running as SYSTEM
+Building in workspace /var/lib/jenkins/workspace/Eduvanz-html
+[Eduvanz-html] $ /bin/bash /tmp/jenkins5891221753169650411.sh
+
+/var/lib/jenkins/workspace/Eduvanz-html
+[REPORT-SERVERS]
+10.10.3.52
+10.10.3.237
+10.10.2.48
+10.10.2.27
+10.10.3.235
+[WARNING]: Invalid characters were found in group names but not replaced, use
+-vvvv to see details
+10.10.3.52 | CHANGED | rc=0 >>
+Updating 6e6fa9648..7206d8721
+Fast-forward
+ application/controllers/Repayment.php | 24 ++++++++++++++++++++----
+ 1 file changed, 20 insertions(+), 4 deletions(-)From github.com:eduvanz-team/eduvanz-html
+ * branch                master     -> FETCH_HEAD
+   6e6fa9648..7206d8721  master     -> origin/master
+10.10.3.237 | CHANGED | rc=0 >>
+Updating 6e6fa9648..7206d8721
+Fast-forward
+ application/controllers/Repayment.php | 24 ++++++++++++++++++++----
+ 1 file changed, 20 insertions(+), 4 deletions(-)From github.com:eduvanz-team/eduvanz-html
+ * branch                master     -> FETCH_HEAD
+   6e6fa9648..7206d8721  master     -> origin/master
+10.10.2.27 | CHANGED | rc=0 >>
+Updating 6e6fa9648..7206d8721
+Fast-forward
+ application/controllers/Repayment.php | 24 ++++++++++++++++++++----
+ 1 file changed, 20 insertions(+), 4 deletions(-)From github.com:eduvanz-team/eduvanz-html
+ * branch                master     -> FETCH_HEAD
+   6e6fa9648..7206d8721  master     -> origin/master
+10.10.3.235 | CHANGED | rc=0 >>
+Updating 6e6fa9648..7206d8721
+Fast-forward
+ application/controllers/Repayment.php | 24 ++++++++++++++++++++----
+ 1 file changed, 20 insertions(+), 4 deletions(-)From github.com:eduvanz-team/eduvanz-html
+ * branch                master     -> FETCH_HEAD
+   6e6fa9648..7206d8721  master     -> origin/master
+10.10.2.48 | CHANGED | rc=0 >>
+Updating 6e6fa9648..7206d8721
+Fast-forward
+ application/controllers/Repayment.php | 24 ++++++++++++++++++++----
+ 1 file changed, 20 insertions(+), 4 deletions(-)From github.com:eduvanz-team/eduvanz-html
+ * branch                master     -> FETCH_HEAD
+   6e6fa9648..7206d8721  master     -> origin/master
+Finished: SUCCESS
