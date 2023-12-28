@@ -1,0 +1,153 @@
+Started by user Manoj Somase
+Running as SYSTEM
+Building in workspace /var/lib/jenkins/workspace/Eduvanz-main
+[Eduvanz-main] $ /bin/bash /tmp/jenkins10778117284425618552.sh
+
+/var/lib/jenkins/workspace/Eduvanz-main
+[REPORT-SERVERS]
+10.10.3.226
+10.10.3.85
+10.10.3.88
+10.10.2.7
+10.10.2.160
+10.10.2.60
+10.10.2.188
+10.10.3.64
+10.10.2.45
+10.10.2.20
+10.10.3.235
+[WARNING]: Invalid characters were found in group names but not replaced, use
+-vvvv to see details
+10.10.3.85 | CHANGED | rc=0 >>
+Updating 22bb207a2..3b8e368eb
+Fast-forward
+ application/modules/lead/controllers/Lead.php      |  3 +
+ .../modules/lead/views/content/geotagging.php      | 76 ++++++++++++++++++++++
+ 2 files changed, 79 insertions(+)From github.com:eduvanz-team/eduvanz-portal
+ * branch                master     -> FETCH_HEAD
+   22bb207a2..3b8e368eb  master     -> origin/master
+10.10.2.160 | CHANGED | rc=0 >>
+Updating 22bb207a2..3b8e368eb
+Fast-forward
+ application/modules/lead/controllers/Lead.php      |  3 +
+ .../modules/lead/views/content/geotagging.php      | 76 ++++++++++++++++++++++
+ 2 files changed, 79 insertions(+)From github.com:eduvanz-team/eduvanz-portal
+ * branch                master     -> FETCH_HEAD
+   22bb207a2..3b8e368eb  master     -> origin/master
+10.10.3.226 | CHANGED | rc=0 >>
+Updating 22bb207a2..3b8e368eb
+Fast-forward
+ application/modules/lead/controllers/Lead.php      |  3 +
+ .../modules/lead/views/content/geotagging.php      | 76 ++++++++++++++++++++++
+ 2 files changed, 79 insertions(+)From github.com:eduvanz-team/eduvanz-portal
+ * branch                master     -> FETCH_HEAD
+   22bb207a2..3b8e368eb  master     -> origin/master
+10.10.2.7 | CHANGED | rc=0 >>
+Updating 22bb207a2..3b8e368eb
+Fast-forward
+ application/modules/lead/controllers/Lead.php      |  3 +
+ .../modules/lead/views/content/geotagging.php      | 76 ++++++++++++++++++++++
+ 2 files changed, 79 insertions(+)From github.com:eduvanz-team/eduvanz-portal
+ * branch                master     -> FETCH_HEAD
+   22bb207a2..3b8e368eb  master     -> origin/master
+10.10.3.88 | CHANGED | rc=0 >>
+Updating 22bb207a2..3b8e368eb
+Fast-forward
+ application/modules/lead/controllers/Lead.php      |  3 +
+ .../modules/lead/views/content/geotagging.php      | 76 ++++++++++++++++++++++
+ 2 files changed, 79 insertions(+)From github.com:eduvanz-team/eduvanz-portal
+ * branch                master     -> FETCH_HEAD
+   22bb207a2..3b8e368eb  master     -> origin/master
+10.10.3.64 | CHANGED | rc=0 >>
+Merge made by the 'recursive' strategy.
+ application/modules/lead/controllers/Lead.php      |  3 +
+ .../modules/lead/views/content/geotagging.php      | 76 ++++++++++++++++++++++
+ 2 files changed, 79 insertions(+)From github.com:eduvanz-team/eduvanz-portal
+ * branch                master     -> FETCH_HEAD
+   22bb207a2..3b8e368eb  master     -> origin/master
+hint: Pulling without specifying how to reconcile divergent branches is
+hint: discouraged. You can squelch this message by running one of the following
+hint: commands sometime before your next pull:
+hint: 
+hint:   git config pull.rebase false  # merge (the default strategy)
+hint:   git config pull.rebase true   # rebase
+hint:   git config pull.ff only       # fast-forward only
+hint: 
+hint: You can replace "git config" with "git config --global" to set a default
+hint: preference for all repositories. You can also pass --rebase, --no-rebase,
+hint: or --ff-only on the command line to override the configured default per
+hint: invocation.
+10.10.2.188 | CHANGED | rc=0 >>
+Updating 22bb207a2..3b8e368eb
+Fast-forward
+ application/modules/lead/controllers/Lead.php      |  3 +
+ .../modules/lead/views/content/geotagging.php      | 76 ++++++++++++++++++++++
+ 2 files changed, 79 insertions(+)From github.com:eduvanz-team/eduvanz-portal
+ * branch                master     -> FETCH_HEAD
+   22bb207a2..3b8e368eb  master     -> origin/master
+10.10.2.60 | CHANGED | rc=0 >>
+Updating 22bb207a2..3b8e368eb
+Fast-forward
+ application/modules/lead/controllers/Lead.php      |  3 +
+ .../modules/lead/views/content/geotagging.php      | 76 ++++++++++++++++++++++
+ 2 files changed, 79 insertions(+)From github.com:eduvanz-team/eduvanz-portal
+ * branch                master     -> FETCH_HEAD
+   22bb207a2..3b8e368eb  master     -> origin/master
+10.10.2.45 | CHANGED | rc=0 >>
+Merge made by the 'recursive' strategy.
+ application/modules/lead/controllers/Lead.php      |  3 +
+ .../modules/lead/views/content/geotagging.php      | 76 ++++++++++++++++++++++
+ 2 files changed, 79 insertions(+)From github.com:eduvanz-team/eduvanz-portal
+ * branch                master     -> FETCH_HEAD
+   22bb207a2..3b8e368eb  master     -> origin/master
+hint: Pulling without specifying how to reconcile divergent branches is
+hint: discouraged. You can squelch this message by running one of the following
+hint: commands sometime before your next pull:
+hint: 
+hint:   git config pull.rebase false  # merge (the default strategy)
+hint:   git config pull.rebase true   # rebase
+hint:   git config pull.ff only       # fast-forward only
+hint: 
+hint: You can replace "git config" with "git config --global" to set a default
+hint: preference for all repositories. You can also pass --rebase, --no-rebase,
+hint: or --ff-only on the command line to override the configured default per
+hint: invocation.
+10.10.2.20 | CHANGED | rc=0 >>
+Merge made by the 'recursive' strategy.
+ application/modules/lead/controllers/Lead.php      |  3 +
+ .../modules/lead/views/content/geotagging.php      | 76 ++++++++++++++++++++++
+ 2 files changed, 79 insertions(+)From github.com:eduvanz-team/eduvanz-portal
+ * branch                master     -> FETCH_HEAD
+   22bb207a2..3b8e368eb  master     -> origin/master
+hint: Pulling without specifying how to reconcile divergent branches is
+hint: discouraged. You can squelch this message by running one of the following
+hint: commands sometime before your next pull:
+hint: 
+hint:   git config pull.rebase false  # merge (the default strategy)
+hint:   git config pull.rebase true   # rebase
+hint:   git config pull.ff only       # fast-forward only
+hint: 
+hint: You can replace "git config" with "git config --global" to set a default
+hint: preference for all repositories. You can also pass --rebase, --no-rebase,
+hint: or --ff-only on the command line to override the configured default per
+hint: invocation.
+10.10.3.235 | CHANGED | rc=0 >>
+Merge made by the 'recursive' strategy.
+ application/modules/lead/controllers/Lead.php      |  3 +
+ .../modules/lead/views/content/geotagging.php      | 76 ++++++++++++++++++++++
+ 2 files changed, 79 insertions(+)From github.com:eduvanz-team/eduvanz-portal
+ * branch                master     -> FETCH_HEAD
+   22bb207a2..3b8e368eb  master     -> origin/master
+hint: Pulling without specifying how to reconcile divergent branches is
+hint: discouraged. You can squelch this message by running one of the following
+hint: commands sometime before your next pull:
+hint: 
+hint:   git config pull.rebase false  # merge (the default strategy)
+hint:   git config pull.rebase true   # rebase
+hint:   git config pull.ff only       # fast-forward only
+hint: 
+hint: You can replace "git config" with "git config --global" to set a default
+hint: preference for all repositories. You can also pass --rebase, --no-rebase,
+hint: or --ff-only on the command line to override the configured default per
+hint: invocation.
+Finished: SUCCESS
