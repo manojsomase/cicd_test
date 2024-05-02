@@ -1,0 +1,21 @@
+pipeline {
+    agent any
+    environment {
+        SONARQUBE_URL = 'https://qube.eduvanz.com'
+        SONARQUBE_TOKEN = credentials('sqp_f05b7d6966aa5fe2d9237fef8b40aea3a58f8de7')
+    }
+    stages {
+        stage('Checkout') {
+            steps {
+                git 'https://github.com/manojsomase/cicd_test.git'
+            }
+        }
+        stage('SonarQube Scan') {
+            steps {
+                withSonarQubeEnv('sonarqube') {
+                    sh 'mvn sonar:sonar -Dsonar.host.url=$SONARQUBE_URL -Dsonar.login=$SONARQUBE_TOKEN'
+                }
+            }
+        }
+    }
+}
